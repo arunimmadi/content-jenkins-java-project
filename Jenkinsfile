@@ -1,4 +1,4 @@
-Hello pipeline {
+ pipeline {
   agent none
 
   environment {
